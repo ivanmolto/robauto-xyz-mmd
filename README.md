@@ -5,7 +5,7 @@ This Monetization Model Design is based on the gameplay output from the Game Des
 This document focuses on the economic model of the game, mechanism design and trading.
 
 ## Model Monetization Design (PDF)
-Please find in the repo [here](https://github.com/ivanmolto/robauto-xyz-mmd/blob/main/robauto-monetization-model-design.pdf) the Monetization Model Design or download from IPFS [here](https://ivanmolto.mypinata.cloud/ipfs/QmThT2j3SyqNu8ATUsDh64fC12SsuTd5MVYzSs3SBbChq7)
+Please find in the repo [here](https://github.com/ivanmolto/robauto-xyz-mmd/blob/main/robauto-monetization-model-design.pdf) the Monetization Model Design or download from IPFS [here](https://ivanmolto.mypinata.cloud/ipfs/Qmf37XGypMEBqGEAoQhHM6aEr5L1nhcCb8pEyLTQaML8zU)
 
 
 ## NEV token allocation (XLSX)
